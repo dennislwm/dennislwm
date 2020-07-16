@@ -9,7 +9,7 @@
 <a href="https://yourls.fxgit.work/a007"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 
-* 🔭 I’m currently working on [Python, R and Metatrader for Happi Traders](https://yourls.fxgit.work/a001)
+* 🔭 I’m currently working on Github Actions for Python and publish on Netlify
 * 🌱 I’m currently learning [freecodecamp](https://freecodecamp.org)
 * 👯 I’m looking to collaborate on [Darwinex ZeroMq Connector](https://github.com/dennislwm/dwx-zeromq-connector) 
 * 🤔 I’m looking for help with [Blender](https://blender.org)
