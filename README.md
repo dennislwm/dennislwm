@@ -3,9 +3,9 @@
 ## 📫 How to reach me
 
 <p>
-<a href="https://www.twitter.com/leetradetitan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://medium.com/@dennislwm22"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/dennislwm"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://yourls.fxgit.work/a006"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://yourls.fxgit.work/a008"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://yourls.fxgit.work/a004"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://yourls.fxgit.work/a007"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 
@@ -17,7 +17,9 @@
 * 😄 Pronouns: happi, grateful
 * ⚡ Fun fact: I'm a Star Wars fan
 
-## Last Tweet
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislwm&show_icons=true&hide_border=true)
+
+## Latest Tweet
 <p><a href="https://www.twitter.com/leetradetitan"><img src="https://github.com/dennislwm/dennislwm/blob/master/tweet.png" width="600"></a></p>
 
 ## Software Geek
