@@ -20,6 +20,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislwm&show_icons=true&hide_border=true)
 
 ## Latest Tweet
+![Build Status](https://github.com/dennislwm/dennislwm/workflows/main/badge.svg)
 <p><a href="https://www.twitter.com/leetradetitan"><img src="https://github.com/dennislwm/dennislwm/blob/master/tweet.png" width="600"></a></p>
 
 ## Software Geek
@@ -49,6 +50,8 @@ Dabbled in email marketing, and new to full-stack development.
 ## BE A HAPPI PATREON
 
 [https://patreon.com/dennislwm](https://yourls.fxgit.work/a003)
+
+![Visitor Count](https://profile-counter.glitch.me/{dennislwm}/count.svg)
 
 <!--
 **dennislwm/dennislwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
