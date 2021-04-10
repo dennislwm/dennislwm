@@ -29,7 +29,7 @@
 
 ## Latest Tweet
 ![Build Status](https://github.com/dennislwm/dennislwm/workflows/main/badge.svg)
-<p><a href="https://www.twitter.com/leetradetitan"><img src="https://github.com/dennislwm/dennislwm/blob/master/tweet.png" width="600"></a></p>
+<p><a href="https://www.twitter.com/hypowork"><img src="https://github.com/dennislwm/dennislwm/blob/master/tweet.png" width="600"></a></p>
 
 ## Software Geek
 Started as a hobbyist, studied computer engineering as a degree, then worked as a full-time software engineer, and a freelance programmer.
