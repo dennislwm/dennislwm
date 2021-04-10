@@ -2,6 +2,7 @@
 
 ## 📫 How to reach me
 <p>
+<a href="https://yourls.fxgit.work/a012"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" height=25></a>
 <a href="https://yourls.fxgit.work/a006"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://yourls.fxgit.work/a008"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://yourls.fxgit.work/a004"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
@@ -13,14 +14,18 @@
 </p>
 
 * 🔭 I’m currently working on Github Actions for Python and publish on Netlify
-* 🌱 I’m currently learning [freecodecamp](https://freecodecamp.org)
-* 👯 I’m looking to collaborate on [Darwinex ZeroMq Connector](https://github.com/dennislwm/dwx-zeromq-connector) 
-* 🤔 I’m looking for help with [Blender](https://blender.org)
+* 🌱 I’m currently learning [A Cloud Guru](https://acloudguru.com)
+* 🤔 I’m looking for help with [pydocker-cli](https://github.com/dennislwm/pydocker-cli)
+* 👯 I’ll volunteer to Dockerize an application on any GitHub repository.
 * 💬 Ask me about Any Geek stuff
 * 😄 Pronouns: happi, grateful
 * ⚡ Fun fact: I'm a Star Wars fan
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislwm&show_icons=true&hide_border=true)
+
+![CodersRank Score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dennislwm)
+
+![CodersRank Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dennislwm)
 
 ## Latest Tweet
 ![Build Status](https://github.com/dennislwm/dennislwm/workflows/main/badge.svg)
