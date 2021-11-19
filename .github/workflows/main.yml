@@ -34,7 +34,8 @@ jobs:
     - name: Install Package Dependencies
       run: |-
         Rscript -e "install.packages('remotes')"
-        Rscript -e "remotes::install_github('gadenbuie/tweetrmd', ref='main')"
+        Rscript -e "install.packages('devtools')"
+        Rscript -e "devtools::install_github('gadenbuie/tweetrmd', ref='main')"
         Rscript -e "remotes::install_github('rstudio/webshot2', ref='main')"
         Rscript -e "install.packages('rtweet')"  
 
