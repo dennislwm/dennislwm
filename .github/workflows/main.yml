@@ -49,7 +49,7 @@ jobs:
         CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
       run: |-
-        Rscript -e "source('script.R')"
+        Rscript script.R
 
     # Update git repository
     - name: Commit and push if changed
