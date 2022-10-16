@@ -32,10 +32,13 @@ jobs:
     # Install R Package (multi-line script)
     - uses: r-lib/actions/setup-r@v1
     - name: Install Package Dependencies
+      env:
+        GITHUB_PAT: ${{ secrets.GIT_TOKEN }}
       run: |-
         Rscript -e "install.packages('remotes')"
-        Rscript -e "remotes::install_github('gadenbuie/tweetrmd')"
-        Rscript -e "remotes::install_github('rstudio/webshot2')"
+        Rscript -e "install.packages('devtools')"
+        Rscript -e "devtools::install_github('gadenbuie/tweetrmd', ref='main')"
+        Rscript -e "remotes::install_github('rstudio/webshot2', ref='main')"
         Rscript -e "install.packages('rtweet')"  
 
     # Generate Twitter Image
