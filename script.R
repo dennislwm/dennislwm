@@ -23,7 +23,7 @@ recent_tweets$status_id
 
 tmpimg <- "tweet.png"
 tweet_screenshot(
-  tweet_url(handle, recent_tweets$quoted_status_id),
+  tweet_url(handle, recent_tweets$in_reply_to_status_id),
   scale = 5, 
   maxwidth = 600,
   theme = "light",
