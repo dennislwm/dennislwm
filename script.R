@@ -16,14 +16,13 @@ handle <- "hypowork"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 attributes(recent_tweets)
 recent_tweets$id
-recent_tweets$in_reply_to_status_id
 recent_tweets$in_reply_to_user_id
 recent_tweets$quoted_status_id
 recent_tweets$status_id
 
 tmpimg <- "tweet.png"
 tweet_screenshot(
-  tweet_url(handle, recent_tweets$in_reply_to_status_id),
+  tweet_url(handle, recent_tweets$id),
   scale = 5, 
   maxwidth = 600,
   theme = "light",
