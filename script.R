@@ -14,7 +14,7 @@ lasttweet_token <- function() {
 
 handle <- "hypowork"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
-recent_tweets
+attributes(recent_tweets)
 recent_tweets$status_id
 
 tmpimg <- "tweet.png"
