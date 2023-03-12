@@ -2,20 +2,41 @@
 
 ## 📫 How to reach me
 <p>
-<a href="https://yourls.fxgit.work/a012"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" height=25></a>
-<a href="https://yourls.fxgit.work/a006"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://yourls.fxgit.work/a008"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://yourls.fxgit.work/a004"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<a href="https://yourls.fxgit.work/a007"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/dennislwm"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" height=25></a>
+<a href="https://twitter.com/hypowork"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://leetradetitan.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://dev.to/dennislwm"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/user/dennisleewm"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 <p>
 <span class="badge-buymeacoffee"><a href="https://ko-fi.com/dennislwm" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/dennislwm" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 </p>
 
-* 🔭 I’m currently working on Github Actions for Python and publish on Netlify
+### Subscribe to my Newsletter
+
+> **Note**: My interests include scripting, AWS, GitLab, open-source, self-hosting, productivity etc, and I publish articles on my blog infrequently.
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/dennislwm"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/dennislwm', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
+
+## My Statistics
+
+* 🔭 I’m currently working on AWS CloudFormation and GitLab CICD
 * 🌱 I’m currently learning [A Cloud Guru](https://acloudguru.com)
-* 🤔 I’m looking for help with [pydocker-cli](https://github.com/dennislwm/pydocker-cli)
+* 🤔 I’m looking for help with [pydocker-cli](https://github.com/dennislwm/coda-cli)
 * 👯 I’ll volunteer to Dockerize an application on any GitHub repository.
 * 💬 Ask me about Any Geek stuff
 * 😄 Pronouns: happi, grateful
@@ -26,6 +47,8 @@
 ![CodersRank Score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dennislwm)
 
 ![CodersRank Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dennislwm)
+
+<script src="https://gist.github.com/dennislwm/183323b375cfae35e416512d0ada81bf.js"></script>
 
 ## Latest Tweet
 ![Build Status](https://github.com/dennislwm/dennislwm/workflows/main/badge.svg)
@@ -43,13 +66,11 @@ Started as a hobbyist, and maintains an open-source repository of trading indica
 ## Passionate Learner
 Dabbled in email marketing, and new to full-stack development.
 
-## Python, R and Metatrader for Happi Traders
+## Makerwork
 
-[https://fxgit.work](https://yourls.fxgit.work/a001)
+[Makerwork](https://makerwork.netlify.app)
 
-## FREE $100 CREDIT
-
-[https://digitalocean.com](https://yourls.fxgit.work/001affdo)
+## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{dennislwm}/count.svg)
 
