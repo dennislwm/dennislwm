@@ -11,26 +11,12 @@
 <p>
 <span class="badge-buymeacoffee"><a href="https://ko-fi.com/dennislwm" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/dennislwm" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-newsletter"><a href="https://buttondown.email/dennislwm" title="Subscribe to Newsletter"><img src="https://img.shields.io/badge/newsletter-subscribe-blue.svg" alt="Subscribe Dennis Lee's Newsletter" /></a></span>
 </p>
 
-### Subscribe to my Newsletter
+### Subscribe to Newsletter
 
 > **Note**: My interests include scripting, AWS, GitLab, open-source, self-hosting, productivity etc, and I publish articles on my blog infrequently.
-
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/dennislwm"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/dennislwm', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form>
 
 ## My Statistics
 
