@@ -34,7 +34,9 @@
 
 ![CodersRank Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dennislwm)
 
+<!--
 <script src="https://gist.github.com/dennislwm/183323b375cfae35e416512d0ada81bf.js"></script>
+-->
 
 ## Latest Tweet
 ![Build Status](https://github.com/dennislwm/dennislwm/workflows/main/badge.svg)
